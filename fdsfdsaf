@@ -1,0 +1,27 @@
+[33mcommit 1c74a461047cdab38c1ef8db1a9b65ccff72513c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: luongle1911 <89968159+luongle1911@users.noreply.github.com>
+Date:   Thu Oct 24 06:51:47 2024 -0700
+
+    Update scrapy.cfg
+    
+    add new comment line
+
+[33mcommit 8174e40fa0b7c72a5534e8292266730febedc569[m
+Author: luongle1911 <89968159+luongle1911@users.noreply.github.com>
+Date:   Thu Oct 24 06:50:26 2024 -0700
+
+    Create test.html
+    
+    add new html file
+
+[33mcommit f98f85c2226225e0cb60f0bbe1404c5c9093d883[m
+Author: aeolian1911 <lephuluong1911@gmail.com>
+Date:   Thu Oct 24 06:46:25 2024 -0700
+
+    add new file to this test folder
+
+[33mcommit 51374158bc71d9d1a4fcbf7a09557e622365ccca[m
+Author: aeolian1911 <lephuluong1911@gmail.com>
+Date:   Thu Oct 24 06:40:54 2024 -0700
+
+    test add file
